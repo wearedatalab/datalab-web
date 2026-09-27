@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/datalab-web/sitemap.xsl"?>
+<!--dl-sitemap lang=en section=bogota-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://wearedatalab.com/en/bogota/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/bogota/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/bogota/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/bogota/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/nearshore-colombia-1200.c102e0e087.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/bogota/nearshore-software-development-colombia/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/bogota/desarrollo-de-software-bogota/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/bogota/nearshore-software-development-colombia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/bogota/desarrollo-de-software-bogota/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/nearshore-software-development-colombia-1200.562c2e738f.webp</image:loc></image:image>
+  </url>
+</urlset>
