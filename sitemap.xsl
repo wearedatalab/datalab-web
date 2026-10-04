@@ -350,7 +350,7 @@
       <xsl:when test="$ui = 'en'">
         <xsl:choose>
           <xsl:when test="$k = 'paginas'">Home page, about, contact, human-readable sitemap and legal documents.</xsl:when>
-          <xsl:when test="$k = 'servicios'">The services index, then one page per service in the order of its family: growth, content, technology and dedicated teams.</xsl:when>
+          <xsl:when test="$k = 'servicios'">The services index, then one page per service in the order of its family: growth, content, technology and staff augmentation.</xsl:when>
           <xsl:when test="$k = 'bogota'">The Bogotá page and the services with local information for companies working with a team in Colombia.</xsl:when>
           <xsl:when test="$k = 'casos'">The case studies index, then one case study per page in alphabetical order by client.</xsl:when>
           <xsl:when test="$k = 'proyectos'">The portfolio and its indexable deliverable types.</xsl:when>
@@ -360,7 +360,7 @@
       <xsl:otherwise>
         <xsl:choose>
           <xsl:when test="$k = 'paginas'">Inicio, nosotros, contacto, mapa del sitio para personas y documentos legales.</xsl:when>
-          <xsl:when test="$k = 'servicios'">El índice de servicios y una página por servicio, en el orden de sus familias: crecimiento, contenido, tecnología y equipos dedicados.</xsl:when>
+          <xsl:when test="$k = 'servicios'">El índice de servicios y una página por servicio, en el orden de sus familias: crecimiento, contenido, tecnología y Staff Augmentation.</xsl:when>
           <xsl:when test="$k = 'bogota'">La página de Bogotá y los servicios con información local para empresas de Bogotá.</xsl:when>
           <xsl:when test="$k = 'casos'">El índice de casos y un caso de éxito por página, en orden alfabético por cliente.</xsl:when>
           <xsl:when test="$k = 'proyectos'">El portafolio y sus tipos de entregable indexables.</xsl:when>

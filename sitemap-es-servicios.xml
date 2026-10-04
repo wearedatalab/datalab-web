@@ -4,7 +4,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://wearedatalab.com/servicios/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/"/>
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/consultoria-de-marketing-digital/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/consultoria-de-marketing-digital/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/digital-marketing-consulting/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/consultoria-de-marketing-digital/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/agencia-seo/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/agencia-seo/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/ai-seo-agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/agencia-seo/"/>
@@ -28,7 +28,7 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/agencia-google-ads/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/agencia-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/performance-marketing-agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/agencia-google-ads/"/>
@@ -36,7 +36,7 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/agencia-de-marketing-b2b/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/agencia-de-marketing-b2b/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/b2b-marketing-agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/agencia-de-marketing-b2b/"/>
@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/agencia-de-inbound-marketing/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/agencia-de-inbound-marketing/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/marketing-automation-agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/agencia-de-inbound-marketing/"/>
@@ -52,7 +52,7 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/analitica-web/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/analitica-web/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/marketing-analytics-consulting/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/analitica-web/"/>
@@ -60,15 +60,23 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/agencia-de-redes-sociales/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/agencia-de-redes-sociales/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/outsourced-social-media-management/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/agencia-de-redes-sociales/"/>
     <image:image><image:loc>https://wearedatalab.com/assets/img/agencia-de-redes-sociales-1200.19ef8ebe4d.webp</image:loc></image:image>
   </url>
   <url>
+    <loc>https://wearedatalab.com/servicios/agencia-de-contenidos/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/agencia-de-contenidos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/content-writing-services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/agencia-de-contenidos/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/agencia-de-contenidos-1200.4ab5d75176.webp</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://wearedatalab.com/servicios/agencia-creativa/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/agencia-creativa/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/content-creation-agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/agencia-creativa/"/>
@@ -76,7 +84,7 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/diseno-de-paginas-web/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/diseno-de-paginas-web/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/outsource-web-development/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/diseno-de-paginas-web/"/>
@@ -84,23 +92,39 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/agencia-de-ecommerce/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/agencia-de-ecommerce/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/shopify-development-agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/agencia-de-ecommerce/"/>
     <image:image><image:loc>https://wearedatalab.com/assets/img/agencia-de-ecommerce-1200.f67990e9ca.webp</image:loc></image:image>
   </url>
   <url>
+    <loc>https://wearedatalab.com/servicios/ideacion-de-producto/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/ideacion-de-producto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/product-discovery-services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/ideacion-de-producto/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/ideacion-de-producto-1200.764c08b0fe.webp</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://wearedatalab.com/servicios/desarrollo-de-software-a-la-medida/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/desarrollo-de-software-a-la-medida/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/nearshore-software-development/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/desarrollo-de-software-a-la-medida/"/>
     <image:image><image:loc>https://wearedatalab.com/assets/img/empresa-de-desarrollo-de-software-1200.5028d9bc8e.webp</image:loc></image:image>
   </url>
   <url>
+    <loc>https://wearedatalab.com/servicios/desarrollo-de-mvp/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/desarrollo-de-mvp/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/ai-mvp-development/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/desarrollo-de-mvp/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/desarrollo-de-mvp-1200.1b213a5d4f.webp</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://wearedatalab.com/servicios/diseno-ux-ui/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/diseno-ux-ui/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/ux-design-agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/diseno-ux-ui/"/>
@@ -108,7 +132,7 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/agencia-de-ia/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/agencia-de-ia/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/ai-automation-agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/agencia-de-ia/"/>
@@ -116,18 +140,26 @@
   </url>
   <url>
     <loc>https://wearedatalab.com/servicios/mantenimiento-de-paginas-web/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/mantenimiento-de-paginas-web/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/wordpress-maintenance/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/mantenimiento-de-paginas-web/"/>
     <image:image><image:loc>https://wearedatalab.com/assets/img/mantenimiento-de-paginas-web-1200.a4551f2f0f.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://wearedatalab.com/servicios/outsourcing-de-ti/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/outsourcing-de-ti/"/>
+    <loc>https://wearedatalab.com/servicios/staff-augmentation-marketing/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/staff-augmentation-marketing/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/marketing-staff-augmentation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/staff-augmentation-marketing/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/staff-augmentation-de-marketing-1200.c185012ab7.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/servicios/staff-augmentation-ti/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/servicios/staff-augmentation-ti/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/services/it-staff-augmentation/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/outsourcing-de-ti/"/>
-    <image:image><image:loc>https://wearedatalab.com/assets/img/outsourcing-de-ti-1200.c7b57f4df8.webp</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/servicios/staff-augmentation-ti/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/staff-augmentation-ti-1200.1b50f92216.webp</image:loc></image:image>
   </url>
 </urlset>
