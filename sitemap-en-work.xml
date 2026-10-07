@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<!--dl-sitemap lang=en section=proyectos-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://wearedatalab.com/en/work/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/proyectos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/work/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/proyectos/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/software-development-portfolio-1200.512cb5734c.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-starkapital-o-1800.cddedf34fe.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-mfc-1-o-1800.9f59a7eacb.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-eternit-reto1-o-1280.8c7bc25b3e.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/plataforma-marketplace-residencial-o-1800.127dcf6a55.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/brand-hubproptech-1-o-1800.b90760cf84.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-eternit-o-1800.fad28dfd9f.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-lfh-1-o-1800.c18c8493c1.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/plataforma-mundoaventura-o-1800.f861819743.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-nuam-1-o-1800.3eeba2b094.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-eternit-reto2-o-1280.d991aa766d.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-iris-o-1800.857e1fee5b.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/brand-hubproptech-2-o-1800.7a62b765ec.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/plataforma-educapital-o-1800.c6cf8be28c.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-rubbermaid-mx-o-1800.32a71983b8.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-nuam-capsulas-o-1800.c3123f7267.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/email-datalab-1-o-1800.aa73de8bea.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-colombiafintech-1-o-1518.6dba290813.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-repremundo-o-1800.fd634e64c1.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/plataforma-utmedica-o-1800.b07308df42.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-eternit-reto3-o-1280.9a8f4a7411.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-bacano-o-1800.5b9211fcf1.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/brand-datalab-1-o-1800.8a031d8832.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-lfh-2-o-1423.96fba51f73.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-mfc-2-o-1800.fda2975012.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-mapcargo-o-1800.6118601b25.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-lfh-videocast-o-1800.ee63510c73.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/brand-hubproptech-3-o-1800.0cc3234745.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-datalab-astronauta-o-640.8a46a5b2b9.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-dapsite-o-1800.2ba46ecb43.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-hubproptech-1-o-1800.8b056886fc.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/brand-hubproptech-4-o-1800.0640003c55.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/work/social-media/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/proyectos/redes-sociales/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/work/social-media/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/proyectos/redes-sociales/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/social-media-1423.96fba51f73.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-mfc-1-o-1800.9f59a7eacb.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-lfh-1-o-1800.c18c8493c1.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-nuam-1-o-1800.3eeba2b094.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-colombiafintech-1-o-1518.6dba290813.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-mfc-2-o-1800.fda2975012.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/redes-hubproptech-1-o-1800.8b056886fc.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/work/video/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/proyectos/video/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/work/video/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/proyectos/video/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-1800.c3123f7267.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-eternit-reto1-o-1280.8c7bc25b3e.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-eternit-reto2-o-1280.d991aa766d.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-eternit-reto3-o-1280.9a8f4a7411.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-lfh-videocast-o-1800.ee63510c73.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/video-datalab-astronauta-o-640.8a46a5b2b9.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/work/websites/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/proyectos/paginas-web/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/work/websites/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/proyectos/paginas-web/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-development-portfolio-1800.fad28dfd9f.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-starkapital-o-1800.cddedf34fe.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-iris-o-1800.857e1fee5b.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-rubbermaid-mx-o-1800.32a71983b8.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-repremundo-o-1800.fd634e64c1.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-bacano-o-1800.5b9211fcf1.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-mapcargo-o-1800.6118601b25.webp</image:loc></image:image>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/web-dapsite-o-1800.2ba46ecb43.webp</image:loc></image:image>
+  </url>
+</urlset>

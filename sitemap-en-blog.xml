@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<!--dl-sitemap lang=en section=blog-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://wearedatalab.com/en/blog/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/digital-marketing-blog-1200.6121866fc0.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/what-is-staff-augmentation/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/que-es-staffing/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/what-is-staff-augmentation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/que-es-staffing/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/what-is-staff-augmentation-1200.4091a9e466.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/what-is-ga4/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/google-analytics-4/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/what-is-ga4/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/google-analytics-4/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/what-is-ga4-1200.3edc377d70.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/seo-vs-sem/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/diferencia-entre-seo-y-sem/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/seo-vs-sem/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/diferencia-entre-seo-y-sem/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/seo-vs-sem-1200.548548077f.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/how-much-does-a-website-cost/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/cuanto-cuesta-una-pagina-web/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/how-much-does-a-website-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/cuanto-cuesta-una-pagina-web/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/how-much-does-a-website-cost-1200.dbf33f5f54.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/social-media-management-cost/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/manejo-de-redes-sociales-precios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/social-media-management-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/manejo-de-redes-sociales-precios/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/how-much-does-social-media-management-cost-1200.094b771cb8.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/geo-vs-seo/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/que-es-geo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/geo-vs-seo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/que-es-geo/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/geo-vs-seo-1200.e01acac036.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/b2b-lead-generation-strategies/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/marketing-b2b/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/b2b-lead-generation-strategies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/marketing-b2b/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/b2b-lead-generation-strategies-1200.e57da4e99a.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/ai-agents-examples/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/agentes-de-ia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/ai-agents-examples/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/agentes-de-ia/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/ai-agent-examples-1200.a88a4dc107.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/marketing-automation-benefits/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/automatizacion-de-marketing/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/marketing-automation-benefits/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/automatizacion-de-marketing/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/marketing-automation-benefits-1200.cfd3717e3a.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/fintech-colombia/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/fintech-en-colombia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/fintech-colombia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/fintech-en-colombia/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/fintech-colombia-1200.c253febc95.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://wearedatalab.com/en/blog/benefits-of-content-marketing/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://wearedatalab.com/blog/que-es-marketing-de-contenidos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wearedatalab.com/en/blog/benefits-of-content-marketing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wearedatalab.com/blog/que-es-marketing-de-contenidos/"/>
+    <image:image><image:loc>https://wearedatalab.com/assets/img/benefits-of-content-marketing-1200.5bdc4dbbf8.webp</image:loc></image:image>
+  </url>
+</urlset>
